@@ -1,0 +1,16 @@
+.subsection {
+    background-color: #fd7c92;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#one {
+    color: #1414ff;
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+#two {
+    background-color: #73ff73;
+    font-size: 24px;
+    font-weight: bold;
+}
